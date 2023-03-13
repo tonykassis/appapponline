@@ -1,14 +1,11 @@
-# 🏡 Responsive Real State Website
-## [Watch it on youtube](https://youtu.be/twRLgPsP1H0)
-### 🏡 Responsive Real State Website
+# Basic-Website-using-HTML5-CSS3
+Create your very first website using HTML5, CSS3
 
-- Responsive Real State Website Using HTML CSS & JavaScript
-- Contains animations when scrolling.
-- Includes a dark and light mode.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Paste all the images in one folder and name it as img.
+Download logo image and paste it in img folder.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+copy and paste index.html code in VS Code or NOTE PAD ++ and save it as index.html
+copy and paste style.css code in VS Code or NOTE PAD ++ and save it as style.css
 
-![preview img](/preview.png)
+
+-----WILL POST SHOPPING WEBSITE WITH ADD TO CART OPTION AND FULLY FUNCTIONABLE----
